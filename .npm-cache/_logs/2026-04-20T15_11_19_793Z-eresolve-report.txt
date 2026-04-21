@@ -1,0 +1,16 @@
+'Log files:
+/Users/mac/presspulse/.npm-cache/_logs/2026-04-20T15_11_19_793Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: presspulse@0.1.0
+Found: react@18.3.1
+node_modules/react
+  react@"^18.3.1" from the root project
+
+Could not resolve dependency:
+peer react@"^16.13.0" from react-wordcloud@1.2.7
+node_modules/react-wordcloud
+  react-wordcloud@"^1.2.7" from the root project
+
+Fix the upstream dependency conflict, or retry this command with --force or --legacy-peer-deps to accept an incorrect (and potentially broken) dependency resolution.
