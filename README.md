@@ -63,6 +63,6 @@ Then:
 - `GET /api/cron/fetch-rss` → hourly RSS polling + dedupe + analysis (service role)
 
 ## Notes
-- UI language toggle is **🇬🇧 / 🇫🇷 / 🇸🇦** and mirrors layout for Arabic (`dir="rtl"`).
+- UI language toggle is **🇬🇧 / 🇫🇷 / 🇲🇦** and mirrors layout for Arabic (`dir="rtl"`).
 - Sentiment is always performed in the article’s **native language**; UI language does not change analysis.
 
