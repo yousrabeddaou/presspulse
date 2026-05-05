@@ -1,6 +1,6 @@
 # PressPulse
 
-Media Monitoring & Multilingual Sentiment (Arabic/French/English) dashboard for PR teams.
+Online Media Monitoring & Multilingual Sentiment (Arabic/French/English) dashboard for PR teams.
 
 ## Stack
 - Next.js 14 (App Router) + Tailwind (dark-by-default + glass UI)
